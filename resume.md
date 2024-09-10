@@ -41,5 +41,7 @@ Wardiere University | 2028 – 2032
 
 # Languages
 
-English (Fluent)
-Tamil (Fluent)
+1. English (Fluent)
+2. French (Intermediate)
+3. Spanish (Basic)
+
