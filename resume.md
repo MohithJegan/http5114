@@ -1,4 +1,4 @@
-# Mohith Krishnamoorthy Jeganathan
+# John Doe
 
 ## About Me
 
